@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* opcional: tú eliges un fondo base */
+body {
+  @apply font-body bg-base-200 dark:bg-base-300;
+}

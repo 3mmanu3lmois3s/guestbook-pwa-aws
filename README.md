@@ -1,0 +1,3 @@
+# React + Vite + AWS Services
+
+Esta demo trata de una PWA sobre un libro de invitados para hoteles o restaurants, esta hecha con REACT, Vite , Tailwind, AWS services (Lamda, WAF, S3, Dynamo, CI + CD ) rancher y esta desplegada en github pages. El objetivo es demostrar en una demo como estan integrados muchos servicios de AWS y como se despliegan y desarrollan continuamente aplicando pipelines dentro de AWS.
