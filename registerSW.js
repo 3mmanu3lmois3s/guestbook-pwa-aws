@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/guestbook-pwa-aws/sw.js', { scope: '/guestbook-pwa-aws/' })})}
